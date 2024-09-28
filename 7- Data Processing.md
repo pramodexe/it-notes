@@ -1,4 +1,4 @@
-# Data Processing Study Notes (Enhanced)
+# Data Processing Study Notes
 
 ## 1. How Computers Process Data
 
